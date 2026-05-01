@@ -89,6 +89,8 @@ playwright-cache/
 .agent/
 .gemini/
 .claude/
+_bmad/
+_bmad-output/
 
 # --- Logs ---
 logs/
