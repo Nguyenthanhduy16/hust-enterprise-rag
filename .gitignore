@@ -96,3 +96,7 @@ _bmad-output/
 logs/
 *.log
 log/
+
+# --- Ignore Specific Files ---
+rag.py
+docs/

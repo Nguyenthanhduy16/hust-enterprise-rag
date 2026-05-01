@@ -94,7 +94,6 @@ Client (Web/API)
 
 ```
 enterprise_rag_system/
-├── rag.py                      # Entry point chính
 ├── requirements.txt            # Thư viện Python
 ├── DESIGN.md                   # Hệ thống thiết kế UI (Cohere-inspired)
 ├── .env                        # Biến môi trường (không commit)
@@ -121,9 +120,8 @@ enterprise_rag_system/
 │   ├── crawl_logs/             # Log thu thập web
 │   └── eval_results/           # Kết quả đánh giá RAG
 │
-├── docs/                       # Tài liệu dự án
-├── _bmad-output/               # Output từ BMad AI framework
-└── _bmad/                      # BMad configuration
+
+
 ```
 
 ---
@@ -237,7 +235,7 @@ POST /api/query
 Content-Type: application/json
 
 {
-  "question": "Quy định về an toàn thực phẩm là gì?",
+  "question": "Học phí chương trình chuẩn là bao nhiêu?",
   "model": "claude-3-5-sonnet-20241022",
   "top_k": 5
 }
@@ -301,10 +299,3 @@ python src/pipeline/web_crawler.py --test
 
 ---
 
-## 📄 License
-
-Dự án này được phát triển cho mục đích học thuật tại **Trường Đại học Bách khoa Hà Nội (HUST)**.
-
----
-
-*Được xây dựng với ❤️ cho môn học Graduate Research 1*
