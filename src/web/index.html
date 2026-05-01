@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HUST Regulation QA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" aria-label="Điều hướng">
+      <div class="sidebar-head">
+        <div class="brand">
+          <span class="logo" aria-hidden="true">H</span>
+          <div class="brand-text">
+            <span class="brand-name">HUST</span>
+            <span class="brand-sub">Regulation QA</span>
+          </div>
+        </div>
+        <button id="newChatBtn" class="btn-solid" type="button">
+          <span class="btn-plus" aria-hidden="true">+</span>
+          Cuộc trò chuyện mới
+        </button>
+      </div>
+
+      <nav class="side-section" aria-label="Lịch sử">
+        <div class="side-label">Lịch sử</div>
+        <ul id="historyList" class="history-list">
+          <li class="history-empty">Chưa có cuộc trò chuyện nào.</li>
+        </ul>
+      </nav>
+
+      <div class="sidebar-foot">
+        <div class="side-label">Thông tin</div>
+        <p class="foot-note">
+          Trợ lý trả lời dựa trên quy chế chính thức của Đại học Bách khoa Hà Nội.
+          Mọi trích dẫn được gắn nguồn tới <em>Chương / Điều / Khoản</em>.
+        </p>
+      </div>
+    </aside>
+
+    <main class="chat" aria-label="Khung trò chuyện">
+      <header class="topbar">
+        <div class="crumbs">
+          <span class="crumb-tag">Trợ lý</span>
+          <span class="crumb-sep" aria-hidden="true">/</span>
+          <span class="crumb-current">Quy chế đào tạo</span>
+        </div>
+        <div class="status-pill" title="Trạng thái máy chủ">
+          <span class="dot" aria-hidden="true"></span>
+          Sẵn sàng
+        </div>
+      </header>
+
+      <section id="messages" class="messages" aria-live="polite">
+        <div class="welcome">
+          <div class="welcome-card">
+            <div class="eyebrow">Hỏi đáp quy chế</div>
+            <h1 class="display">
+              Trợ lý quy chế <em>HUST</em>
+            </h1>
+            <p class="lede">
+              Hỏi bất kỳ điều gì về quy chế đào tạo, học phí, ngoại ngữ, tốt nghiệp&hellip;
+              Câu trả lời được trích dẫn chính xác tới <strong>Chương</strong>,
+              <strong>Điều</strong>, và <strong>Khoản</strong>.
+            </p>
+
+            <div class="suggestions" role="list">
+              <button class="suggest" role="listitem">
+                <span class="s-tag">Đăng ký học phần</span>
+                <span class="s-text">Sinh viên muốn đăng ký học phần cần điều kiện gì?</span>
+              </button>
+              <button class="suggest" role="listitem">
+                <span class="s-tag">Ngoại ngữ K68</span>
+                <span class="s-text">Chuẩn đầu ra ngoại ngữ của K68 chính quy là gì?</span>
+              </button>
+              <button class="suggest" role="listitem">
+                <span class="s-tag">Học phí 2025-2026</span>
+                <span class="s-text">Mức học phí chương trình chuẩn 2025-2026 là bao nhiêu?</span>
+              </button>
+              <button class="suggest" role="listitem">
+                <span class="s-tag">Xét tốt nghiệp</span>
+                <span class="s-text">Điều kiện xét tốt nghiệp đối với sinh viên hệ chính quy?</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <form id="chatForm" class="composer" autocomplete="off">
+        <div class="composer-shell">
+          <textarea
+            id="input"
+            rows="1"
+            placeholder="Nhập câu hỏi của bạn về quy chế HUST..."
+            autofocus
+          ></textarea>
+          <div class="composer-row">
+            <div class="model-selector-wrap">
+              <button type="button" id="modelToggle" class="model-toggle" aria-haspopup="listbox" aria-expanded="false">
+                <span id="modelLabel">GPT-4o</span>
+                <svg class="chevron" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                  <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+              <ul id="modelMenu" class="model-menu" role="listbox" style="display:none;"></ul>
+            </div>
+            <span class="hint">
+              <kbd>Enter</kbd> để gửi · <kbd>Shift</kbd>+<kbd>Enter</kbd> xuống dòng
+            </span>
+            <button id="sendBtn" type="submit" class="btn-solid">
+              Gửi
+              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+            </button>
+          </div>
+        </div>
+      </form>
+    </main>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+# generated: 2026-04-24T21:55:00+07:00
+# last_updated: 2026-04-24T21:55:00+07:00
+# project: enterprise_rag_system
+# project_key: NOKEY
+# tracking_system: file-system
+# story_location: c:/Onedrive/20252/GR1/enterprise_rag_system/_bmad-output/implementation-artifacts
+
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic not yet started
+#   - in-progress: Epic actively being worked on
+#   - done: All stories in epic completed
+#
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - ready-for-dev: Story file created in stories folder
+#   - in-progress: Developer actively working on implementation
+#   - review: Ready for code review (via Dev's code-review workflow)
+#   - done: Story completed
+#
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - done: Retrospective has been completed
+
+generated: 2026-04-24T21:55:00+07:00
+last_updated: 2026-04-24T21:55:00+07:00
+project: enterprise_rag_system
+project_key: NOKEY
+tracking_system: file-system
+story_location: c:/Onedrive/20252/GR1/enterprise_rag_system/_bmad-output/implementation-artifacts
+
+development_status:
+  epic-1: in-progress
+  1-1-validate-harden-fastapi-application-foundation: review
+  1-2-validate-chat-query-api-streaming-citation-pipeline: review
+  1-3-rate-limit-resilience-infrastructure-error-handling: in-progress
+  1-4-web-chat-ui-send-stream-render: review
+  1-5-citation-display-in-session-chat-history: review
+  epic-1-retrospective: optional
+  
+  epic-2: in-progress
+  2-1-validate-structural-chunking-pipeline: review
+  2-2-best-effort-table-metadata-preservation: review
+  2-3-validate-cohort-targeted-reranking: review
+  2-4-ingestion-pipeline-throughput-re-embed-workflow: review
+  2-5-reranker-debug-scoring-observability: done
+  epic-2-retrospective: optional
+  
+  epic-3: backlog
+  3-1-retrieval-confidence-scoring-programmatic-refusal: backlog
+  3-2-cohort-clarification-flow: backlog
+  3-3-prompt-injection-detection-input-sanitization: backlog
+  epic-3-retrospective: optional
+  
+  epic-4: backlog
+  4-1-document-upload-api-endpoint: backlog
+  4-2-metadata-aware-ingestion-pipeline: backlog
+  4-3-chunk-anomaly-detection-admin-alerting: backlog
+  4-4-admin-dashboard-basic-ingest-management-ui: backlog
+  epic-4-retrospective: optional

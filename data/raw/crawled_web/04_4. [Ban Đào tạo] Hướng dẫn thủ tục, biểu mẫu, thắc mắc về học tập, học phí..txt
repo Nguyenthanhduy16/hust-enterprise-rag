@@ -1,0 +1,72 @@
+# 4. [Ban Đào tạo] Hướng dẫn thủ tục, biểu mẫu, thắc mắc về học tập, học phí.
+
+## [Ban Đào tạo] Hướng dẫn thủ tục, biểu mẫu, thắc mắc về học tập, học phí.
+
+I. Giới thiệu chung
+
+Ban Đào tạo tiếp nhận các đề xuất, thắc mắc, phản hồi của sinh viên qua thư điện tử (email), hạn chế tối đa việc sinh viên phải lên gặp trực tiếp. Việc sử dụng email khi trao đổi sẽ mang lại các lợi ích sau:
+
+- Giảm thời gian đi lại, giảm thời gian chờ đợi, hẹn gặp;
+- Xác nhận chính xác thời gian gửi và tiếp nhận, xử lý thông tin;
+- Có thể xử lý thông tin tại mọi địa điểm;
+- Dễ dàng chuyển đơn tới các đơn vị liên quan để xin ý kiến;
+- Lưu được các minh chứng: sinh viên cần lưu lại các email đã gửi, không xóa để còn làm minh chứng trong trường hợp cần thiết.
+II. Yêu cầu
+
+1. Sinh viên bắt buộc phải dùng email của trường cấp khi gửi đơn và các câu hỏi, thắc mắc liên quan tới học tập. Nếu sinh viên dùng các email khác như Gmail, Yahoo mail…thì không thể xác thực được người gửi nên không đủ thông tin để giải quyết.
+
+2. Trong trường hợp cần có đơn thì sinh viên có thể tải đơn theo mẫu trong từng mục tương ứng, sau đó in ra hoặc viết tay lại đơn đều được. Điền các thông tin trong đơn và cần có đủ các mục chữ ký. Lưu ý trong trường hợp không thể xin chữ ký của khoa/viện/trường thì mục đó có thể để trống và Ban Đào tạo sẽ liên hệ với các đơn vị đó sau để xác nhận.
+
+Cách nộp đơn: Sinh viên nộp đơn qua email bằng cách chụp ảnh cả đơn và thẻ sinh viên rồi gửi kèm theo email tới người tiếp nhận tương ứng theo bảng dưới đây.
+
+Lưu ý: riêng **Đơn xin thôi học rút hồ sơ bắt buộc phải nộp tại Ban Đào tạo** (202A-C1) tương tự với một vài mẫu đơn khác theo hướng dẫn, không tiếp nhận online.
+
+3. Để có thể dễ dàng phân loại công việc, sinh viên cần soạn tiêu đề email theo cấu trúc sau: [Hạng mục viết tắt] Mã số sinh viên – Họ và tên
+
+Ví dụ: [Học phí] 20211234 Nguyễn Văn A
+
+III. Hạng mục công việc và người phụ trách
+
+| TT | Hạng mục | Hạng mục viết tắt | Gửi email tới/ vào link đặt câu hỏi | Mẫu đơn |
+| --- | --- | --- | --- | --- |
+| 1. | Thắc mắc về học phí Thắc mắc về tính học phần trong/ngoài chương trình | [Học phí] | hung.tranle@hust.edu.vn |  |
+| 2. | Biên lai học phí | Hóa đơn điện tử (Biên lai thu học phí) được cấp tự động và gửi vào địa chỉ email của sinh viên. Sinh viên có thắc mắc về hóa đơn điện tử cần liên hệBan Tài chính - Kế hoạch(Phòng 207, nhà C3-4). |
+| 3. | Thắc mắc về miễn giảm học phí |  | Đặt câu hỏitại đây | Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1) |
+| 4. | Kết quả học tập các kỳ (GPA, CPA, tín chỉ nợ...) Tăng/giảm mức cảnh báo học tập | [Kết quả học tập] | hung.tranle@hust.edu.vn |  |
+| 5. | Học bổng khuyến khích học tập các mức A, B, C Chuyển/nhận tiền học bổng, tài khoản nhận học bổng |  | Đặt câu hỏi tại đây (https://ctsv.hust.edu.vn/#/viet-giay/1) | Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1) |
+| 6. | Sửa thông tin cá nhân trên Cổng thông tin SV Cấp giấy xác nhận SV Thủ tục khi bị mất thẻ sinh viên | [Hồ sơ cá nhân] | Đăng ký cấp giấy tờ hoặc sửa thông tin SVtại đây Thắc mắc về việc cấp giấy tờtại đây (https://ctsv.hust.edu.vn/#/viet-giay/1) | Nếu có thắc mắc cần liên hệ Ban Công tác sinh viên (phòng 103-104 C1) |
+| 7. | Công nhận học phần tương đương/thay thế | [Chuyển điểm] | thu.nguyenthiha@hust.edu.vn | Tảitại đây |
+| 8. | 1. Miễn học phần thông thường 2. Miễn học phần ngoại ngữ 3. Miễn học GDQP-AN khi đã có chứng chỉ Lưu ý với ngoại ngữ: Chứng chỉ ngoại ngữ thi ngoài ĐHBK Hà Nội cần thực hiện hậu kiểm tại  Trung tâm CLC trước khi xin miễn (xemtại đây).Chỉ xin miễn khi điểm ngoại ngữ đã được nhập lên CTT. | [Miễn điểm] | ninh.lequang@hust.edu.vn Chuyên viên Lê Quang Ninh (bàn 3, phòng 202A-C1) | Hướng dẫn và mẫu đơn xin miễn ngoại ngữ xemtại đâyHướng dẫn và mẫu đơn miễn GDQP-AN xemtại đây |
+| 9. | Thắc mắc chưa thay đổi điểm do phúc tra | [Thắc mắc điểm] | ninh.lequang@hust.edu.vn |  |
+| 10. | Thắc mắc chưa nhập điểm hoặc chưa thấy có điểm trong bảng kết quả học tập | [Thắc mắc điểm] Các bước cần thực hiện: Bước 1:Liên hệ với giảng viên/khoa,viện qua email để biết được giảng viên đã nhập điểm lên hệ thống hay chưa. Bước 2:Nếu giảng viên thông báo đã nhập điểm mà chưa thấy có điểm trên hệ thống thì gửi chuyển tiếp (foward) chính email đã liên hệ với giảng viên đó tới địa chỉ:ninh.lequang@hust.edu.vnđể được hỗ trợ. Lưu ý: Thời gian từ khi nhập điểm đến khi có điểm trên hệ thống có thể trong vòng 1 ngày (24 giờ) do cần đồng bộ và kiểm tra lại điểm. | Xem thêm hướng dẫntại đây |
+| 11. | Phúc tra điểm | 1. Trước tiên sẽ trao đổiqua emailvới giảng viên giảng dạy học phần 2. Trong trường hợp vẫn còn thắc mắc sau khi liên hệ với giảng viên: sẽ nộp đơn phúc tra điểm tới khoa, viện phụ trách giảng dạy học phần. 3. Ban Đào tạo không tiếp nhận đơn phúc tra điểm vì không đúng thẩm quyền. | Tham khảo mẫu đơntại đây |
+| 12. | Thắc mắc về chương trình đào tạo | [Chương trình ĐT] | huong.nguyenthi1@hust.edu.vn |  |
+| 13. | Xét nhận Đồ án/khóa luận tốt nghiệp Bù tín chỉ | [Xét nhận ĐATN] | huong.nguyenthi1@hust.edu.vn | Tảitại đây |
+| 14. | Thắc mắc về đăng ký tốt nghiệp Bù tín chỉ và đăng ký tốt nghiệp Kết quả xét tốt nghiệp | [Xét tốt nghiệp] | huong.nguyenthi1@hust.edu.vn | Tảitại đây |
+| 15. | Lịch đăng ký học tập Thắc mắc đăng ký học tập | [Lịch đăng ký] [Đăng ký học tập] | dat.nguyenquoc@hust.edu.vn |  |
+| 16. | Đăng ký lớp đầy | Liên hệ trực tiếp với trường/khoa/viện quản lý học phần. |
+| 17. | Rút/hủy đăng ký học phần | [Rút học phần] | dat.nguyenquoc@hust.edu.vn Chỉ tiếp nhận qua emailđể lưu minh chứng, không nhận đơn trực tiếp. | Tải mẫu đơntại đây |
+| 18. | Giới hạn tín chỉ đăng ký do mức cảnh báo, do ngoại ngữ | [Giới hạn TC] | dat.nguyenquoc@hust.edu.vn |  |
+| 19. | Thắc mắc về cập nhật điểm ngoại ngữ lên hệ thống (Dành cho SV có thắc mắc về việc chưa được cập nhật điểm ngoại ngữ lên hệ thống sau khi thi hoặc sau khi nộp hậu kiểm). | [TOEIC] | dat.nguyenquoc@hust.edu.vn Ghi chú: Điểm các đợt thi ngoại ngữ thi tại Trung tâm CLC sẽ được Trung tâm gửi Ban Đào tạo để cập nhật, do đó trước tiên cần liên hệ với Trung tâm CLC khi chưa thấy có điểm. Lưu ý: việc gửi dữ liệu từ Trung tâm CLC thực hiện theo đợt. SV có chứng chỉ ngoại ngữ quốc tế cần gửi quaTrung tâm CLCđể hậu kiểm chứng chỉ,KHÔNG nộp trực tiếpcho Ban Đào tạo vì Ban Đào tạo không có chức năng xác thực chứng chỉ. |  |
+| 20. | Thắc mắc về thời khóa biểu | [Thời khóa biểu] | thu.nguyenthiha@hust.edu.vn Với SV các chương trình đào tạo hợp tác quốc tế, liên hệ chuyên viên Giang Hương: huong.giang@hust.edu.vn |  |
+| 21. | Xác nhận thứ hạng sinh viên | [Xếp hạng] | dat.nguyenquoc@hust.edu.vn Chuyên viên Nguyễn Quốc Đạt (bàn 8, phòng 202A-C1) |  |
+| 22. | Xin thôi học và rút hồ sơ sinh viên | Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1 | hue.nguyenkim@hust.edu.vn Chuyên viên tiếp nhận: Nguyễn Kim Huệ (bàn 6, phòng 202A-C1) | Tải mẫu đơntại đây |
+| 23. | Xin nghỉ học dài hạn (bảo lưu) | [Nghỉ học] | hue.nguyenkim@hust.edu.vn Chuyên viên Nguyễn Kim Huệ (bàn 6, phòng 202A-C1) Nếu xin nghỉ dài hạn vì lý do sức khỏe: + Trong đơn cần có xác nhận của Trung tâm Y tế Bách khoa (địa chỉ tại số 5 Tạ Quang Bửu) và chụp ảnh các giấy tờ minh chứng của cơ sở y tế nơi điều trị hoặc khám bệnh để gửi kèm đơn. + Sinh viên cần mang bệnh án và các giấy tờ khám bệnh khi tới xin xác nhận tại Trung tâm Y tế BK + Hoặc đến khám trực tiếp tại Trung tâm Y tế BK để có thể kết luận về tình hình sức khỏe. | Tải đơntại đây Lưu ý: 1) SV cần hoàn thành công nợ học phí trước khi nộp đơn. 2) Với SV các chương trình  với ĐH TROY cần liên hệ với cô Nguyễn Kiều Anh (tầng 3, phòng 315-C1) để tư vấn và xác nhận trước khi nộp đơn. 3) Sinh viên xem số QĐ cho phép nghỉ dài hạn bằng cách đăng nhập Cổng thông tin sinh viên ctt.hust.edu.vn và vào mục Hồ sơ SV. |
+| 24. | Tiếp nhận trở lại học sau khi nghỉ dài hạn (Thời gian tiếp nhận đơn là trước 3-4 tuần so với thời điểm bắt đầu học kỳ) | [Tiếp nhận học] | hue.nguyenkim@hust.edu.vn Sinh viên chụp ảnh đơn và gửi qua email để lưu thời điểm nộp đơn, không tiếp nhận trực tiếp. | Tảitại đây |
+| 25. | Thủ tục chuyển trường trong nước Thủ tục chuyển trường từ nước ngoài về | Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1 | Giải đáp thắc mắc gửi qua email tới chuyên viên Nguyễn Kim Huệ: hue.nguyenkim@hust.edu.vn Đơn cần nộp trực tiếp tại bàn 6, phòng 202A-C1, chuyên viên tiếp nhận: Nguyễn Kim Huệ | Đơn chuyển trường trong nướctại đây(gồm cả phần hướng dẫn ở cuối đơn) Hướng dẫn chuyển trường nước ngoài vềtại đây |
+| 26. | Chuyển ngành đào tạo/chương trình đào tạo | [Chuyển ngành] | hue.nguyenkim@hust.edu.vn Chuyên viên Nguyễn Kim Huệ (202A-C1) | Tảitại đây |
+| 27. | Chuyển sang học tại Trung tâm Đào tạo liên tục | [Chuyển hệ ĐTLT] | 1) Tải mẫu đơn và điền đầy đủ thông tin Trường hợp có thắc mắc về thủ tục tại Ban Đào tạo sẽ liên hệ theo qua email: hue.nguyenkim@hust.edu.vn 2) Nộp đơn tại Trung tâm Đào tạo liên tục (khu nhà TC) để được tư vấn và xếp lớp. Trường hợp cần tư vấn với Trung tâm Đào tạo liên tục sẽ liên hệ qua email: dtlt@hust.edu.vn | Tảitại đây |
+| 28. | Trích sao bảng điểm (dành cho SV đang học hoặc thôi học). (Với người học đã tốt nghiệp xem tại dòng số 37 của bảng) | [Trích sao] | hanh.tranthi@hust.edu.vn Nhận tại bàn 4 phòng 202A-C1 (chuyên viên Trần Thị Hạnh). | Xem hướng dẫntại đây |
+| 29. | Lịch thi học kỳ | [Lịch thi] | 1. Chuyên viên Trần Thị Hạnh: lịch thi cuối  kỳ. Email: hanh.tranthi@hust.edu.vn 2. Chuyên viên Giang Hương: lịch thi Đợt A; kiểm tra giữa kỳ; thi kỳ hè. Email: huong.giang@hust.edu.vn |  |
+| 30. | Hoãn thi cuối kỳ | Nộp đơn trực tiếp tại Ban Đào tạo 202A-C1 (bàn số 4) (chuyên viên tiếp nhận: Trần Thị Hạnh) | Nộp đơn kèm minh chứng tại Ban Đào tạo (bàn 4, phòng 202A-C1, gặp chuyên viên Trần Thị Hạnh). Địa chỉ của Trung tâm Y tế Bách khoa:Số 5 Tạ Quang Bửu, Phường Bạch Mai, Hà Nội. Nếu có thắc mắc có thể liên hệ chuyên viên Trần Thị Hạnh: hanh.tranthi@hust.edu.vn LƯU Ý: (1) Thời gian nhập điểm hoãn thi (I) khi được chấp nhận:trong vòng 2 tuần sau khi kết thúc đợt thi. (2) Hoãn thi với các học phần GDTC:Liên hệ trực tiếp với thầy, cô giảng dạy học phần cần hoãn thi, cung cấp các minh chứng cần thiết để thầy, cô xem xét bố trí thi bù.Trong trường hợp cần hỗ trợ hoặc có thắc mắc thì các em liên hệ với thầy Lê Duy Long (Phó trưởng khoa GDTC): long.leduy@hust.edu.vn (3) Hoãn thi với các học phần GDQP-AN:Khoa GDQP-AN sẽ tiếp nhận đơn và xử lý hoãn thi và thi bù cho sinh viên. Nộp đơn hoãn thi tại khoa GDQP-AN, người tiếp nhận là cô Nguyễn Thị Hà Giang (email: giang.nguyenthiha@hust.edu.vn). | Hướng dẫn chi tiết xemtại đây. Tải mẫu đơn đăng ký  hoãn thitại đây |
+| 31. | Đăng ký thi bù do hoãn thi | Đăng ký thi bù do hoãn thi cuối kỳtại đây. (Cần đăng ký muộn nhất là 5 ngày trước ngày thi) | Nếu có thắc mắc liên hệ chuyên viên Trần Thị Hạnh: hanh.tranthi@hust.edu.vn | Hướng dẫn chi tiết xemtại đây. Đăng ký bù do hoãn thi cuối kỳtại đây |
+| 32. | Reset mật khẩu tài khoản ctt-sis.hust.edu.vn | Hiện tại đã mở thêm chức năng đăng nhập bằng tài khoản email Office 365, do đó trong trường hợp quên mật khẩu thì SV sẽ dùng tài khoản email. | Thắc mắc về tài khoản Office 365: liên hệ Trung tâm Chuyển đổi số theo thông tin sau Văn phòng:905A -TV Tạ Quang BửuĐiện thoại:024 38682203Email:office.cdt@hust.edu.vn |  |
+| 33. | Thắc mắc về bằng cấp, chứng chỉ | [Văn bằng] | thuyet.leminh@hust.edu.vn Chuyên viên Lê Minh Thuyết (bàn số 7, phòng 202A-C1) |  |
+| 34. | Nhận bằng tốt nghiệp | [Nhận bằng] | thu.nguyenthiha@hust.edu.vn Chuyên viên Nguyễn Thị Hà Thu (bàn số 9, phòng 202A-C1). Trong trường hợp người khác nhận thay phải có giấy ủy quyền có xác nhận của phường/xã (mẫu giấy ủy quyền theo quy định của địa phương). | Nhận bằng theo Biểu đồ kế hoạch học tập hoặc các ngày thứ 3, thứ 5 hàng tuần tại Ban Đào tạo. Yêu cầu mang thẻ căn cước công dân hoặc chứng minh thư nhân dân. |
+| 35. | Công tác lưu học sinh | [Lưu học sinh] | dat.nguyenquoc@hust.edu.vn Chuyên viên Nguyễn Quốc Đạt (bàn 8, phòng 202A-C1) |  |
+| 36. | Xác minh văn bằng | [Xác minh văn bằng] | 1. Với bằng đại học chính quy:Chuyên viên Nguyễn Kim Huệ (202A-C1, bàn số 6) Email:hue.nguyenkim@hust.edu.vn 2. Với bằng cao đẳng:Chuyên viên Trần Thị Hạnh (202A-C1, bàn số 4) Email:hanh.tranthi@hust.edu.vn 3. Với bằng Sau đại học:Chuyên viên Đinh Thị Quyên (315-C1, bàn số 8) Email:quyen.dinhthi@hust.edu.vn 4. Với bằng đại học hệ vừa làm vừa học:Trung tâm Đào tạo liên tục (địa chỉ: 94 phố Lê Thanh Nghị, Bách Khoa, Hai Bà Trưng, Hà Nội). Email:dtlt@hust.edu.vn |  |
+| 37. | Cấp bản sao văn bằng (bằng tốt nghiệp/bảng điểm tốt nghiệp) | [Bản sao văn bằng] | thu.nguyenthiha@hust.edu.vn Nộp đơn trực tiếptại bàn số 9, phòng 202A-C1 (chuyên viên tiếp nhận: Nguyễn Thị Hà Thu). Với các văn bằng hệ vừa làm vừa học được cấp từ năm 2022 trở về trước: nộp đơn tại Trung tâm đào tạo liên tục (xem thông tintại đây). | Mẫu Đề nghị cấp bản sao văn bằng tốt nghiệp tảitại đây. |
+| 38. | Cấp Giấy chứng nhận tốt nghiệp tạm thời Giấy chứng nhận tốt nghiệp tạm thời chỉ có thể cấp trong khi chờ cấp bằng, tức là chỉ có thể cấp từ khi Giám đốc ĐHBK HN ký Quyết định công nhận tốt nghiệp, chứ không phải cấp ngay sau khi có kết quả trên hệ thống (kết quả trên hệ thống mới chỉ là chạy phần mềm, chưa phải kết quả công nhận tốt nghiệp). Tham khảo quy định trên tại Thông tư số 21/2019/TT-BGDĐTtại đây. + Thời gian chờ cấp bằng: xem Khoản 1 Điều 17 của Thông tư trên. + Thời điểm có thể cấp Giấy chứng nhận tốt nghiệp tạm thời: xem Khoản 3 Điều 17 của Thông tư trên. CHÚ Ý:Hiện tạiĐÃCÓQuyết định công nhận tốt nghiệp đối với đợt tốt nghiệp 2025.1 Cách thực hiện:Sau khi Ban Đào tạo thông báo về việc đã có Quyết định công nhận tốt nghiệp thì sinh viên sẽ đăng ký cấp Giấy chứng nhận tốt nghiệp tạm thời từ hệ thống QLĐT và sẽ nhận Giấy chứng nhận này tại trường/khoa quản lý. Trong trường hợp cần thiết thì khicó kết quả xét tốt nghiệp trong tài khoản Cổng thông tinsinh viên có thể liên hệ Văn phòng trường/khoa để xinGiấy xác nhận hoàn thành chương trình đào tạo(đăng ký theo biểu mẫu trên QLĐT). |
+| 39. | Mật khẩu email | Liên hệ Trung tâm mạng thông tintại đây |
+| 40. | Hướng dẫn chuyển tiếp sinh | [Chuyển tiếp sinh] | huong.giang@hust.edu.vn Chuyên viên Giang Hương (316-C1) |  |
+| 41. | (1) Thay đổi chương trình đào tạo KS chuyên sâu (2) Xin hủy đăng ký học chương trình đào tạo KS chuyên sâu | [KS chuyên sâu] | Học viên tải đơn --> điền đầy đủ thông tin --> xin xác nhận của Trường/Khoa quản ngành --> chụp và gửi đơn qua email: hung.nguyenhuy@hust.edu.vn (chuyên viên tiếp nhận: Nguyễn Huy Hùng) | Mẫu đơn của (1) Mẫu đơn của (2) |
